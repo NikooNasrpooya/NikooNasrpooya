@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](Gif.mp4))
+![](Gif.mp4)
 
  Hello, I'm Nikoo!
 I'm a Software developer with a Master's degree in Electrical engineering. I have a solid background in c programming and professional experience as an Embedded Software Developer. 
