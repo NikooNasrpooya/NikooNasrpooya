@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**NikooNasrpooya/NikooNasrpooya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
  Hello, I'm Nikoo!
 I'm an Electrical Engineer with a Master's degree, and I have professional experience as an Embedded Systems Software Developer 
 
