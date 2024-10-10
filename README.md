@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Alt text]<a href="https://iconscout.com/lottie-animations/girl" class="text-underline font-size-sm" target="_blank">Girl Coding In Computer</a> by <a href="https://iconscout.com/contributors/redapple" class="text-underline font-size-sm">redapple</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
+![Alt text] (<a href="https://iconscout.com/lottie-animations/girl" class="text-underline font-size-sm" target="_blank">Girl Coding In Computer</a> by <a href="https://iconscout.com/contributors/redapple" class="text-underline font-size-sm">redapple</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>)
  Hello, I'm Nikoo!
 I'm a Software developer with a Master's degree in Electrical engineering. I have a solid background in c programming and professional experience as an Embedded Software Developer. 
 
